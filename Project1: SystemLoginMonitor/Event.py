@@ -5,6 +5,8 @@ class Event:
         self._machine = machine
         self._event_type = event_type
     
+    
+    # getters for python to access private variables
     @property
     def date(self):
         return self._date
