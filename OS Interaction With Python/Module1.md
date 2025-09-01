@@ -1,4 +1,4 @@
-# Module 1: Using Python to Interact with the Operating System
+# Module 1: Getting your Python On
 
 ## Course Environment
 - **Platform**: Linux
